@@ -6,6 +6,7 @@
 
 /* Screens */
 @import 'components/status-bar.css';
+@import 'components/nav-bar.css';
 
 @font-face {
   src: url('../fonts/Jua-Regular.ttf');
