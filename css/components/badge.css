@@ -1,0 +1,24 @@
+.badge {
+    background-color: tomato;
+    width: 25px;
+    height: 25px;
+    border-radius: 17.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+
+.circle_alert{
+    width: 10px;
+    height: 10px;
+    font-size: 5px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    border: 1.5px solid red;
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-left: 5px;
+}
